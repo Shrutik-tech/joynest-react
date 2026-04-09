@@ -4,6 +4,6 @@ supabase==2.5.1
 python-dotenv==1.0.0
 postgrest==0.10.8
 storage3==0.7.1
-gotrue==2.4.0
+gotrue==2.4.1
 httpx==0.24.1
 gunicorn==21.2.0
